@@ -1,3 +1,7 @@
+# Consistency Models Sample Barebones Colab
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/JonathanFly/consistency_models_colab_notebook/blob/main/Consistency_Models_Make_Samples.ipynb)    
+
 # Consistency Models
 
 This repository contains the codebase for [Consistency Models](https://arxiv.org/abs/2303.01469), implemented using PyTorch for conducting large-scale experiments on ImageNet-64, LSUN Bedroom-256, and LSUN Cat-256. We have based our repository on [openai/guided-diffusion](https://github.com/openai/guided-diffusion), which was initially released under the MIT license. Our modifications have enabled support for consistency distillation, consistency training, as well as several sampling and editing algorithms discussed in the paper.
