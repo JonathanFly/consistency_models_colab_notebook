@@ -1,6 +1,6 @@
 # Consistency Models Sample Barebones Colab
 
-[![Open In Colab](colab.svg)](https://colab.research.google.com/github/JonathanFly/consistency_models_colab_notebook/blob/main/Consistency_Models_Make_Samples.ipynb)    
+[Consistency_Models_Make_Samples.ipynb](https://github.com/JonathanFly/consistency_models_colab_notebook/blob/main/Consistency_Models_Make_Samples.ipynb) [![Open In Colab](colab.svg)](https://colab.research.google.com/github/JonathanFly/consistency_models_colab_notebook/blob/main/Consistency_Models_Make_Samples.ipynb)    
 
 # Consistency Models
 
